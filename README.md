@@ -1,9 +1,7 @@
-HTML Resume Page Assignment
-
 This project is a single-page resume website created using only HTML, based on the provided reference layout.
 No CSS or JavaScript has been used in this assignment.
 
-The resume includes the following sections:
+The resume includes the following components:
 - Header / Name
 - About
 - Skills
